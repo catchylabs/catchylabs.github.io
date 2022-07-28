@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/webapp/static/js/app.49b02ce4.chunk.js",
-    "app.js.map": "/webapp/static/js/app.49b02ce4.chunk.js.map",
+    "app.js": "/webapp/static/js/app.b9f4fbc9.chunk.js",
+    "app.js.map": "/webapp/static/js/app.b9f4fbc9.chunk.js.map",
     "runtime~app.js": "/webapp/static/js/runtime~app.aec8f131.js",
     "runtime~app.js.map": "/webapp/static/js/runtime~app.aec8f131.js.map",
-    "static/js/2.8894cd11.chunk.js": "/webapp/static/js/2.8894cd11.chunk.js",
-    "static/js/2.8894cd11.chunk.js.map": "/webapp/static/js/2.8894cd11.chunk.js.map",
+    "static/js/2.dbbbb961.chunk.js": "/webapp/static/js/2.dbbbb961.chunk.js",
+    "static/js/2.dbbbb961.chunk.js.map": "/webapp/static/js/2.dbbbb961.chunk.js.map",
     "fonts/AntDesign.ttf": "/webapp/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/webapp/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/webapp/./fonts/Feather.ttf",
@@ -20,12 +20,12 @@
     "fonts/SimpleLineIcons.ttf": "/webapp/./fonts/SimpleLineIcons.ttf",
     "index.html": "/webapp/index.html",
     "serve.json": "/webapp/serve.json",
-    "static/js/2.8894cd11.chunk.js.LICENSE.txt": "/webapp/static/js/2.8894cd11.chunk.js.LICENSE.txt",
+    "static/js/2.dbbbb961.chunk.js.LICENSE.txt": "/webapp/static/js/2.dbbbb961.chunk.js.LICENSE.txt",
     "static/media/app-logo.png": "/webapp/static/media/app-logo.3be78e48.png"
   },
   "entrypoints": [
     "static/js/runtime~app.aec8f131.js",
-    "static/js/2.8894cd11.chunk.js",
-    "static/js/app.49b02ce4.chunk.js"
+    "static/js/2.dbbbb961.chunk.js",
+    "static/js/app.b9f4fbc9.chunk.js"
   ]
 }
